@@ -33,7 +33,6 @@ namespace Ders2
             Console.WriteLine(sum);
             //if else if else
             //> < == != && || ! operatorlari
-
             Console.ReadLine();
         }
     }
