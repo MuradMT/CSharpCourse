@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ders12;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,6 +34,7 @@ namespace Ders2
             Console.WriteLine(sum);
             //if else if else
             //> < == != && || ! operatorlari
+            
             Console.ReadLine();
         }
     }
