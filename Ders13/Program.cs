@@ -101,6 +101,7 @@ namespace Ders13
                 
                 Console.WriteLine(item.Age);
             }
+            //@ xususi c # terminlerini variable name kimi qoymaga komek edir
             int @int = 0;
             Console.WriteLine(@int);
             Console.ReadLine();
