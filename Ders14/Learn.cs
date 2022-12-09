@@ -9,8 +9,8 @@ namespace Ders14
     public sealed class Learn
     {
         //prop+2 tab
-        //obyektini yaratmaq olur
-        //butun class elementlerinin static olmasini istyirikse
+        //static class obyektini yaratmaq olmur
+        //butun class elementlerinin static olmasini istyirikse static class isledirik
         public static int Some  { get; set; }
 
         public static void Hello()
