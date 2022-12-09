@@ -19,6 +19,7 @@ namespace _09._12._22
             //b.Num = -56;
             //Console.WriteLine(b.Num);
             //Console.WriteLine(a);
+            //some
             Value a = new Value()
             {
                 Id = 1,
