@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("09.12.22")]
+[assembly: AssemblyTitle("Ders15-Elave Tekrar")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("09.12.22")]
+[assembly: AssemblyProduct("Ders15-Elave Tekrar")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3ec33036-d633-4cf9-ab85-a3b3afcb7fbf")]
+[assembly: Guid("3fc93a9f-99c6-49e5-b911-b54d78bd71d2")]
 
 // Version information for an assembly consists of the following four values:
 //

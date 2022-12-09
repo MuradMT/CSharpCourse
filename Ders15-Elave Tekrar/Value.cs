@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09._12._22
+namespace Ders15_Elave_Tekrar
 {
     internal class Value
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
-
     }
 }

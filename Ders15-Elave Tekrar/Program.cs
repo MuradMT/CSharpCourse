@@ -1,11 +1,10 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09._12._22
+namespace Ders15_Elave_Tekrar
 {
     internal class Program
     {
@@ -34,9 +33,7 @@ namespace _09._12._22
                 Age = 12
             });
             Console.ReadLine();
-            
-            
-            
+
         }
     }
 }

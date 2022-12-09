@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09._12._22
+namespace Ders15_Elave_Tekrar
 {
     internal class Class1
     {
@@ -42,18 +41,18 @@ namespace _09._12._22
         // Encapsulation 2 Usul - Butov bir datani tek halda almaq 
         //Valuable lifecycle
         //Debug in yaninda Undo (Ctrl+Z)|| Re Do
-        
+
 
 
         public int Id { get; set; }
         public string Name { get; set; }
         public Class1(string name)
         {
-            Name= name;
+            Name = name;
         }
-        public Class1(int Id,string name):this(name)
+        public Class1(int Id, string name) : this(name)
         {
-          this.Id= Id;
+            this.Id = Id;
         }
         //public Class1(string name,int Id)
         //{
@@ -73,7 +72,7 @@ namespace _09._12._22
 
         public void Method(int a, int b)
         {
-            Console.WriteLine(a+b);
+            Console.WriteLine(a + b);
 
         }
         private int num = 12;
@@ -83,14 +82,14 @@ namespace _09._12._22
 
         public int Getter()
         {
-           return num;
+            return num;
         }
         public void Setter(int a)
         {
             num = a;
         }
         public int Num
-        { 
+        {
             get
             {
                 return num;
