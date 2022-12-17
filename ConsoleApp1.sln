@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders14", "Ders14\Ders14.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders15-Elave Tekrar", "Ders15-Elave Tekrar\Ders15-Elave Tekrar.csproj", "{3FC93A9F-99C6-49E5-B911-B54D78BD71D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders16", "Ders16\Ders16.csproj", "{4F7F52CA-0A98-494A-AAF3-C67501CB891B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3FC93A9F-99C6-49E5-B911-B54D78BD71D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC93A9F-99C6-49E5-B911-B54D78BD71D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC93A9F-99C6-49E5-B911-B54D78BD71D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7F52CA-0A98-494A-AAF3-C67501CB891B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7F52CA-0A98-494A-AAF3-C67501CB891B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7F52CA-0A98-494A-AAF3-C67501CB891B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7F52CA-0A98-494A-AAF3-C67501CB891B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
