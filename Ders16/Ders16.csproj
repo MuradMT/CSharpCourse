@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4F7F52CA-0A98-494A-AAF3-C67501CB891B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ders16</RootNamespace>
-    <AssemblyName>Ders16</AssemblyName>
-    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <RootNamespace>ders16</RootNamespace>
+    <AssemblyName>ders16</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,8 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Any.cs" />
+    <Compile Include="Cvad%27sMethod.cs" />
+    <Compile Include="Cvad.cs" />
+    <Compile Include="Face.cs" />
+    <Compile Include="Iface.cs" />
+    <Compile Include="Kamran.cs" />
+    <Compile Include="Mucarred.cs" />
+    <Compile Include="None.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Some.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
