@@ -11,10 +11,10 @@ namespace Ders14
 {
     internal class Program
     {
-        static IEnumerable<Product> Metod()
-        {
+        //static IEnumerable<Product> Metod()
+        //{
 
-        }
+        //}
         static void Main(string[] args)
         {
             #region MyRegion
