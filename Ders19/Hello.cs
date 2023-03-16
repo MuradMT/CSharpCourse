@@ -103,8 +103,8 @@ namespace Ders19
             //}
             #endregion
             //tuple
-            ar a = Print();
-            Console.WriteLine($"deyer:{a.value},reqem:{a.x}");
+            //ar a = Print();
+            //Console.WriteLine($"deyer:{a.value},reqem:{a.x}");
             Console.ReadLine();
         }
     }
