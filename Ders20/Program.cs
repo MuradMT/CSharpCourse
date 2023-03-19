@@ -117,7 +117,7 @@ namespace Ders20
             Console.WriteLine(c);//some
             string ad = c;
             Console.WriteLine(ad);//some
-            
+
             Console.ReadLine();
         }
     }
