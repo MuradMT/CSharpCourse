@@ -86,16 +86,15 @@ namespace Ders21
             //Console.WriteLine(a);
             //Console.WriteLine(b);
             //variable life cycle
-            #endregion
             //try parse
-            string some = "123";
-            int val;
+            //string some = "123";
+            //int val;
             //bool result = int.TryParse(some, out val);
             //if (result) Console.WriteLine(val);
-            bool result=MyTryParse(some, out val);
-            if (result) Console.WriteLine(val);
-            Console.ReadLine();
-            
+            //bool result=MyTryParse(some, out val);
+            //if (result) Console.WriteLine(val);
+            //Console.ReadLine();
+            #endregion
         }
         static bool MyTryParse(string t,out int x)
         {
